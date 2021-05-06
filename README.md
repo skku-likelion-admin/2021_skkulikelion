@@ -8,6 +8,9 @@
   - django_Static_User_Paginator
 
 2. 실습 코드 및 정답
+  - week2
+  - week3
+  - week4
   - week5
   - week6
   - week7
